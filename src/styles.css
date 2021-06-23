@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 10px;
+}
+button {
+  margin: 15px 3px;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
